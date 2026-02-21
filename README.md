@@ -18,6 +18,7 @@
   - `java/` - Java solutions  
   - `python/` - Python solutions
   - `js/` - JavaScript solutions
+  - `ts/` - TypeScript solutions
 
 **Example path:** `sessions/2026-02-17-session31/solutions/python/`
 
