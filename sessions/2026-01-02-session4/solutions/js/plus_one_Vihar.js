@@ -1,0 +1,19 @@
+// Problem link: https://leetcode.com/problems/plus-one/
+
+/**
+ * @param {number[]} digits - array of digits (0–9) representing a non-negative integer
+ * @returns {number[]} new array of digits representing the integer after adding 1
+ */
+function plusOne(digits) {
+  for (let i = digits.length - 1; i >= 0; i--) {
+    if (digits[i] < 9) {
+      digits[i]++;
+      return digits;
+    }
+    digits[i] = 0;
+  }
+
+  digits.unshift(1);
+
+  return digits;
+}
