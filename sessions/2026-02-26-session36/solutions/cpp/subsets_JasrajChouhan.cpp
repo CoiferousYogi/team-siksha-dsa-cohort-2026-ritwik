@@ -13,7 +13,7 @@
  * Output: [ [ ], [1] , [2] , [1, 2] , [2, 1] ]
  *
  * Follow Back
- * Duplicate subsets cannot exist in the solution set. Return the answer in any sequence.
+ * Array of nums can have duplicates elements.
  *
  */
 
