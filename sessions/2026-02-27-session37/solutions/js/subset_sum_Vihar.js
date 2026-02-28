@@ -1,3 +1,5 @@
+// Problem link: https://www.naukri.com/code360/problems/subset-sum_3843086
+
 /**
  * Generates the sums of all possible subsets of an array.
  *

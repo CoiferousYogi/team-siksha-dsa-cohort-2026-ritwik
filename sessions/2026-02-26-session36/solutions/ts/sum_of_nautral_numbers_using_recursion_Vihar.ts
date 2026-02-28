@@ -1,3 +1,5 @@
+// Problem link: https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/
+
 /**
  * Calculates the sum of all numbers from n down to 0 using recursion.
  *
