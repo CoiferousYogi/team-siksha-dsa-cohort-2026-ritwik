@@ -1,4 +1,6 @@
  /*
+     Note: This is a brute-force approach
+    
      We try to find the minimum day required to make m bouquets.
 
      Process:
@@ -11,7 +13,6 @@
      5. Otherwise, increase the day and try again.
      6. If no day works, return -1.
 
-     (Note: This is a brute-force approach )
     */
 
 
